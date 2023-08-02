@@ -8,7 +8,7 @@ main(){
 		if(a>c){
 			if(a>d){
 				if(a>e){
-					printf("a is grater");
+					printf("a is grater ");
 				}
 				else{
 					printf("e is grater");
