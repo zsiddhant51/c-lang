@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+	
 main(){
 	
 	int i,j;
@@ -13,5 +13,5 @@ main(){
 		
 		printf("\n");
 	}
-	
-}
+		
+}	
