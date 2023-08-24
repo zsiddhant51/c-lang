@@ -8,14 +8,15 @@ main() {
 	gets(s);
 
 	for(i=0; s[i]; i++) {
-		if(s[i]==32)
+		if(s[i]==32) {
 			w++;
+		}
 
 	}
-	if(i>0){
+	if(i>0) {
 		w++;
 	}
-		
+
 
 	printf("no of words in string = %d\n",w);
 

@@ -5,8 +5,8 @@ main() {
 
 	char s[1000];
 	int  i,k=0;
-		printf("Enter the string : ");
-		gets(s);
+	printf("Enter the string : ");
+	gets(s);
 
 
 	for(i=0; s[i]; i++) {
